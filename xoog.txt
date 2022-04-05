@@ -1,0 +1,128 @@
+sidee loo nashqadeeya loogu so daraa pogag
+
+wax lagu so daara saddex siyaabood
+
+*inline stylesheet 
+*internal stylesheet
+*External Stylesheet
+
+* inline stylesheet
+
+<p style="color:red;">Baro css!</P>
+
+*internal stylesheet
+
+
+# comments
+
+commnets ka qayb qoraal ah oo aan
+kasoo muuqananyn bogga waxaa loo
+isticmaala siyaabo kala duwan
+
+* sida marka code -kaaga faalo ku darayso
+* marka qarinayso qayb ka mid codekaga
+
+/*
+ halksa wax comnets ku qoraysa
+*/
+
+/* == hedaer */  wax comments garynayso
+
+
+<style> * this is called attrubute
+
+p{color:red
+
+</style>
+
+
+
+
+# tag name
+
+- wax jira tagname kala duwan oo aad u isticmaalayso marka meel wax ka bedelayso 
+
+
+
+header vs div  headre wuxu kaga duwan yahay semtic name oo qofku wuu fahmaya waxani inuu yahay header
+
+
+type tage name
+
+. normal tagename using only div or header
+.class name using specific name  and .
+.id is using specify name and #
+
+
+
+* Internal style sheet
+
+>P is selector
+> color:red is called decoration
+
+# class Nmae
+
+
+css kuma kooban kaliye iney doorato magaca elementiga HTml elementku waxaay lahaan karaan wax ka badan magac (tag) sia sifo (attribute)
+
+= class wuxu ku fican yahay waa reuseble oo meelo kala duwan ayaad us isticaamli kartaa
+
+# multiple class
+
+hadan waxaynu isticmaalyna ineynu doorano class ingoo elementga walba siineyna hal class
+
+bal ka waram hadii elementaga u bahan yahay waxka badan hal nashqad
+
+nasiib wanaag html wuxuu ogol ayhay in wax ka badan hal calss lagu daro elementga
+
+
+# ID Name
+
+hadii html elementga loo bahayn yahy in loo naqashadeeyo si gaar ah adigoo aan tixgelinayn class-yada uu hayso ama wax ka bedelaya) waxynu istcimaalayna karnaa Id.
+
+id wuxxu masaxaa wax class name aa taag namka ah oo ismaa bedelo marka janeraalka lajooga 
+
+
+# specificity
+
+madaa waay leedahay tagname kala duwan htmlku hadba waxaa jirta hab uu browserku u goaamiyo kala hormarinta naqshada ugu awooda badan iyo tan ugu awooda yar marka css seclectoriskla laga dooranayso
+
+
+say u kala sareeyan
+
+id 
+classnameka
+tagnameka
+
+# units and color
+
+# css unit
+
+css waxay leedahay cabiro kal duwan wayna badanyihiin sida cabirad lagu cabiro jooga iyo balca sid meter centmter
+
+wxaynu u kal saari karnaa lano nooc oo kale ah
+
+    Relative unit()
+    Absolute unites
+
+aboulse unit() waa cabiro aan isla badlin midka ka sareey ama parent  root welmatiga u ah waxaan inta badan lagu cabiraa pixel.
+
+Relative units() cabiro la xidhiidh cabiro kale parentiga ay ku xidhn yihiin
+
+percenteges
+
+
+
+ogow as defoult 16px ayuu browserku u qaatay farta
+
+_px islama bedelo root unitka 
+
+_ 16px  -1em 100
+
+_ em per waa relative unite
+-px wuu yahay absoulte unite
+
+
+sidee u so gaadhsin karna 
+
+uun 32 isagan ka dhiga

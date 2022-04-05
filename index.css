@@ -1,0 +1,19 @@
+body {
+    background: teal;
+/*    font-size: 32px;*/
+    
+}
+
+.pixel {
+    color: white;
+    font-size: 24px;
+}
+.em {
+    color: indianred;
+    font-size: 1.5em;
+}
+
+.per {
+    color: yellow;
+    font-size: 150%;
+}
